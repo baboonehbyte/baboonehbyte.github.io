@@ -1,0 +1,13 @@
+ul {
+    color: coral;
+}
+
+ol, h1 {
+    color: yellowgreen;
+}
+
+p {
+    color: rgb(117, 25, 215);
+    width: 500px;
+    border: 1px solid black;
+}
